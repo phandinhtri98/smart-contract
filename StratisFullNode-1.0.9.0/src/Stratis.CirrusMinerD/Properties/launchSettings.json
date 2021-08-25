@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Stratis.CirrusMinerD": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "devmode": "miner"
+      }
+    },
+    "Stratis.CirrusMinerD TestNet": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet -txindex=1"
+    },
+    "Stratis.CirrusMinerD RegTest": {
+      "commandName": "Project",
+      "commandLineArgs": "-regtest -txindex=1"
+    }
+  }
+}

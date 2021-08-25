@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Contract", "Smart Contract\Smart Contract.csproj", "{ABEF6260-7412-4DFF-8C8C-2B404BF50B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEF6260-7412-4DFF-8C8C-2B404BF50B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEF6260-7412-4DFF-8C8C-2B404BF50B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEF6260-7412-4DFF-8C8C-2B404BF50B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEF6260-7412-4DFF-8C8C-2B404BF50B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53C721E-E3EB-442E-AE1B-BAA0C3033757}
+	EndGlobalSection
+EndGlobal
